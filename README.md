@@ -7,7 +7,7 @@
 A lightweight, production-ready Agentic RAG (Retrieval-Augmented Generation) service that analyzes startup signals (hiring, funding, remote readiness) using semantic search + LLM reasoning.
 
 Built with:
- • FastAPI
+ • FastAPI ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
  • FAISS (vector search)
  • Sentence Transformers
  • Groq LLM (Llama 3.3 70B)
@@ -59,12 +59,13 @@ FastAPI Response
 ---
 
 ## ⚙️ Tech Stack
- • Python 3.10+
- • FastAPI
- • FAISS (CPU)
- • SentenceTransformers (all-MiniLM-L6-v2)
- • Groq LLM API
- • Docker
+ • Python 3.10+ ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+ • FastAPI### Backend ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+ • FAISS (CPU) ![FAISS](https://img.shields.io)
+ • SentenceTransformers (all-MiniLM-L6-v2) ![SentenceTransformers](https://img.shields.io)
+ • Groq LLM API ![Groq](https://img.shields.io)
+ • Docker ![Docker](https://img.shields.io)
+
 
 ---
 
@@ -152,7 +153,7 @@ Returns structured intelligence analysis based on stored signals.
 ---
 
 ## 🧭 Roadmap
- • Live Reddit ingestion
+ • Live Reddit & X ingestion
  • LinkedIn signal scraping
  • Scheduled background refresh
  • Frontend dashboard
