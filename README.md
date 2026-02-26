@@ -59,12 +59,12 @@ FastAPI Response
 ---
 
 ## ⚙️ Tech Stack
- • Python 3.10+ ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
- • FastAPI ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
- • FAISS (CPU) ![FAISS](https://img.shields.io)
- • SentenceTransformers (all-MiniLM-L6-v2) ![SentenceTransformers](https://img.shields.io)
- • Groq LLM API ![Groq](https://img.shields.io)
- • Docker ![Docker](https://img.shields.io)
+ • Python 3.10+ ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+ • FastAPI ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)  
+ • FAISS (CPU) ![FAISS](https://img.shields.io/badge/FAISS-0D0D0D?logo=faiss&logoColor=white)  
+ • SentenceTransformers (all-MiniLM-L6-v2) ![SentenceTransformers](https://img.shields.io/badge/SentenceTransformers-2C3E50?logo=python&logoColor=white)  
+ • Groq LLM API ![Groq](https://img.shields.io/badge/Groq-FF6F61?logo=groq&logoColor=white)  
+ • Docker ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
 
 ---
