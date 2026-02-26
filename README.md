@@ -60,7 +60,7 @@ FastAPI Response
 
 ## ⚙️ Tech Stack
  • Python 3.10+ ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
- • FastAPI### Backend ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+ • FastAPI ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
  • FAISS (CPU) ![FAISS](https://img.shields.io)
  • SentenceTransformers (all-MiniLM-L6-v2) ![SentenceTransformers](https://img.shields.io)
  • Groq LLM API ![Groq](https://img.shields.io)
