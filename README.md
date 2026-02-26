@@ -7,11 +7,11 @@
 A lightweight, production-ready Agentic RAG (Retrieval-Augmented Generation) service that analyzes startup signals (hiring, funding, remote readiness) using semantic search + LLM reasoning.
 
 Built with:
- • ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) FastAPI 
- • ![FAISS](https://img.shields.io/badge/FAISS-0D0D0D?logo=faiss&logoColor=white) FAISS (vector search)
- • ![SentenceTransformers](https://img.shields.io/badge/SentenceTransformers-2C3E50?logo=python&logoColor=white) Sentence Transformers
- • ![Groq](https://img.shields.io/badge/Groq-FF6F61?logo=groq&logoColor=white) Groq LLM (Llama 3.3 70B)
- • ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) Docker-ready architecture
+ • FastAPI
+ • FAISS (vector search)
+ • Sentence Transformers
+ • Groq LLM (Llama 3.3 70B)
+ • Docker-ready architecture
 
 ---
 
@@ -60,11 +60,11 @@ FastAPI Response
 
 ## ⚙️ Tech Stack
  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) Python 3.10+  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) FastAPI  
-![FAISS](https://img.shields.io/badge/FAISS-0D0D0D?logo=faiss&logoColor=white) FAISS (CPU)  
-![SentenceTransformers](https://img.shields.io/badge/SentenceTransformers-2C3E50?logo=python&logoColor=white) SentenceTransformers (all-MiniLM-L6-v2)  
-![Groq](https://img.shields.io/badge/Groq-FF6F61?logo=groq&logoColor=white) Groq LLM API  
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) Docker
+ ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) FastAPI  
+ ![FAISS](https://img.shields.io/badge/FAISS-0D0D0D?logo=faiss&logoColor=white) FAISS (CPU)  
+ ![SentenceTransformers](https://img.shields.io/badge/SentenceTransformers-2C3E50?logo=python&logoColor=white) SentenceTransformers (all-MiniLM-L6-v2)  
+ ![Groq](https://img.shields.io/badge/Groq-FF6F61?logo=groq&logoColor=white) Groq LLM API  
+ ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) Docker
 
 ---
 
