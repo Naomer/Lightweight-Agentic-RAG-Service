@@ -4,9 +4,9 @@
 
 ## 🚀 Agentic Lead Intelligence RAG
 
-### A lightweight, production-ready Agentic RAG (Retrieval-Augmented Generation) service that analyzes startup signals (hiring, funding, remote readiness) using semantic search + LLM reasoning.
+A lightweight, production-ready Agentic RAG (Retrieval-Augmented Generation) service that analyzes startup signals (hiring, funding, remote readiness) using semantic search + LLM reasoning.
 
-## Built with:
+Built with:
  • FastAPI
  • FAISS (vector search)
  • Sentence Transformers
