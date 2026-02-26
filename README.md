@@ -6,7 +6,7 @@
 
 ## A lightweight, production-ready Agentic RAG (Retrieval-Augmented Generation) service that analyzes startup signals (hiring, funding, remote readiness) using semantic search + LLM reasoning.
 
-##Built with:
+## Built with:
  • FastAPI
  • FAISS (vector search)
  • Sentence Transformers
@@ -17,7 +17,7 @@
 
 ## 🧠 What This Project Does
 
-##This service:
+## This service:
  1. Embeds startup-related signals into a FAISS vector store
  2. Retrieves the most relevant context using semantic similarity
  3. Sends structured context to an LLM
