@@ -1,15 +1,14 @@
 # Lightweight Agentic Lead Intelligence RAG Service
 
 # Lightweight Agentic RAG Service
-Alright. Pivot. Calm. Strategic.
 
-⸻
+---
 
-🚀 Agentic Lead Intelligence RAG
+##🚀 Agentic Lead Intelligence RAG
 
-A lightweight, production-ready Agentic RAG (Retrieval-Augmented Generation) service that analyzes startup signals (hiring, funding, remote readiness) using semantic search + LLM reasoning.
+##A lightweight, production-ready Agentic RAG (Retrieval-Augmented Generation) service that analyzes startup signals (hiring, funding, remote readiness) using semantic search + LLM reasoning.
 
-Built with:
+##Built with:
  • FastAPI
  • FAISS (vector search)
  • Sentence Transformers
@@ -18,9 +17,9 @@ Built with:
 
 ⸻
 
-🧠 What This Project Does
+##🧠 What This Project Does
 
-This service:
+##This service:
  1. Embeds startup-related signals into a FAISS vector store
  2. Retrieves the most relevant context using semantic similarity
  3. Sends structured context to an LLM
@@ -38,9 +37,9 @@ Example analysis output:
 }
 ```
 
-⸻
+---
 
-🏗 Architecture
+##🏗 Architecture
 ```bash
 User Query
     ↓
@@ -52,16 +51,16 @@ Groq LLM (Structured JSON Output)
     ↓
 FastAPI Response
 ```
-Components:
+##Components:
  • embedding_service.py → Generates sentence embeddings
  • vector_store.py → FAISS index + persistence
  • retrieval_service.py → Semantic retrieval logic
  • llm_service.py → Groq structured JSON generation
  • main.py → FastAPI endpoints
 
-⸻
+---
 
-⚙️ Tech Stack
+##⚙️ Tech Stack
  • Python 3.10+
  • FastAPI
  • FAISS (CPU)
@@ -69,43 +68,43 @@ Components:
  • Groq LLM API
  • Docker
 
-⸻
+---
 
 🚀 Getting Started
 
-1️⃣ Clone
+##1️⃣ Clone
 ```bash
 git clone https://github.com/yourusername/agentic-lead-rag.git
 cd agentic-lead-rag
 ```
 
-⸻
+---
 
-2️⃣ Create Virtual Environment
+##2️⃣ Create Virtual Environment
 ```bash
 python -m venv .venv
 source .venv/bin/activate  # Windows: .venv\Scripts\activate
 ```
 
-⸻
+---
 
-3️⃣ Install Dependencies
+##3️⃣ Install Dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
-⸻
+---
 
-4️⃣ Configure Environment
+##4️⃣ Configure Environment
 
 Create .env file:
 ```bash
 GROQ_API_KEY=your_groq_api_key_here
 ```
 
-⸻
+---
 
-5️⃣ Run the API
+##5️⃣ Run the API
 ```bash
 uvicorn app.main:app --reload
 ```
@@ -115,9 +114,12 @@ http://127.0.0.1:8000/docs
 
 Use /analyze endpoint.
 
-⸻
+---
 
-🐳 Docker Support
+##🐳 Docker Support
+Dockerized FastAPI agent for RAG tasks.
+
+## Run locally with Docker
 
 Build image:
 ```bash
@@ -128,9 +130,12 @@ Run container:
 docker run -p 8000:8000 --env-file .env agentic-lead-rag
 ```
 
-⸻
+Visit: http://localhost:8000/docs
 
-📦 Features
+
+---
+
+##📦 Features
  • Structured JSON enforcement from LLM
  • Async Groq integration
  • Semantic search retrieval
@@ -138,9 +143,9 @@ docker run -p 8000:8000 --env-file .env agentic-lead-rag
  • FAISS index persistence
  • Dockerized for portability
 
-⸻
+---
 
-🔬 Example Query
+##🔬 Example Query
 ```bash
 "Startup hiring Flutter developer remotely after seed funding"
 ```
@@ -148,7 +153,7 @@ Returns structured intelligence analysis based on stored signals.
 
 ⸻
 
-🧭 Roadmap
+##🧭 Roadmap
  • Live Reddit ingestion
  • LinkedIn signal scraping
  • Scheduled background refresh
@@ -159,11 +164,11 @@ Returns structured intelligence analysis based on stored signals.
 
 ⸻
 
-🎯 Why This Matters
+##🎯 Why This Matters
 
-This is not a chatbot.
+##This is not a chatbot.
 
-It is a structured intelligence engine designed to extract startup signals for:
+##It is a structured intelligence engine designed to extract startup signals for:
  • Freelancers
  • Recruiters
  • Founders
@@ -171,31 +176,15 @@ It is a structured intelligence engine designed to extract startup signals for:
 
 ⸻
 
-🧱 Author
+##🧱 Author
 
-Built by Me — AI-focused mobile + systems engineer exploring Agentic architectures and applied intelligence systems.
+##Built by Me — AI-focused mobile + systems engineer exploring Agentic architectures and applied intelligence systems.
 
 ⸻
 
-📄 License
+##📄 License
 
 MIT License
 
-⸻
-
-That’s clean. No hype. No cringe. Serious engineering tone.
-
-⸻
-
-
-Dockerized FastAPI agent for RAG tasks.
-
-## Run locally with Docker
-
-```bash
-docker build -t lead-rag-agent .
-docker run -d -p 8000:8000 --env-file .env -v "${PWD}:/app" lead-rag-agent
-```
-
-Visit: http://localhost:8000/docs
+---
 
