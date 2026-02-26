@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "title": "Welcome",
+    "content": "This is a sample post for RAG.",
+    "tags": ["sample", "intro"]
+  },
+  {
+    "id": "2",
+    "title": "Getting Started",
+    "content": "Setup and first steps.",
+    "tags": ["setup"]
+  }
+]

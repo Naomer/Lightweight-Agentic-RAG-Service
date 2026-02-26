@@ -1,0 +1,58 @@
+Founder of B2B SaaS struggling with churn after 6 months. | https://linkedin.com
+Looking for a developer to build MVP for marketplace platform. | https://wellfound.com
+Early-stage startup raised seed round, hiring Flutter developer. | https://x.com
+Indie hacker validating idea using landing page and waiting list. | https://indiehackers.com
+Startup looking for AI automation to reduce manual operations. | https://ycombinator.com
+Company expanding to new market, needs mobile app developer. | https://glassdoor.com
+Founder overwhelmed with customer support automation needs. | https://reddit.com
+Bootstrap startup searching for growth marketing expert. | https://growthhackers.com
+Series A Fintech startup in London hiring Senior React Native dev. | https://fintech.io
+SaaS founder looking for ghostwriter to handle LinkedIn content. | https://upwork.com
+HealthTech company just closed $10M, building AI diagnostics team. | https://crunchbase.com
+E-commerce brand needs Shopify expert for headless migration. | https://shopify.com
+Web3 startup looking for Rust developer for smart contract audit. | https://github.com
+Solo founder building a micro-SaaS, needs a part-time QA tester. | https://toptal.com
+EdTech platform expanding to LATAM, hiring content creators. | https://remoteok.com
+AI-native CRM startup searching for Lead Data Scientist. | https://ai-jobs.net
+PropTech firm hiring a remote Project Manager for UK operations. | https://weworkremotely.com
+Crypto exchange looking for Cybersecurity lead after recent hack. | https://coindesk.com
+D2C beverage brand needs a growth hacker for TikTok ads. | https://tiktok.com
+Logistics startup raised Seed, hiring Python/Django backend dev. | https://python.org
+Mental health app needs a UI/UX designer for onboarding flow. | https://dribbble.com
+LegalTech startup looking for an intern to label training data. | https://scale.com
+GovTech company hiring a Go developer for distributed systems. | https://golang.org
+Gaming studio in Berlin needs a Unity dev for new RPG title. | https://gamesjobsdirect.com
+MarTech startup looking for a Head of Sales to lead US expansion. | https://salesforce.com
+BioTech lab needs a freelance technical writer for whitepapers. | https://fiverr.com
+AdTech company hiring a DevOps engineer for AWS infrastructure. | https://aws.amazon.com
+Fintech bootstrap looking for a fractional CFO. | https://linkedin.com
+CleanTech startup raised Series B, hiring Hardware Engineers. | https://cleantech.org
+Fitness app founder needs a Video Editor for YouTube channel. | https://youtube.com
+HR-Tech startup looking for an SEO specialist for blog growth. | https://ahrefs.com
+TravelTech platform needs a Flutter developer for iOS/Android. | https://flutter.dev
+FoodTech startup hiring a Customer Success Lead for NYC office. | https://indeed.com
+InsurTech company searching for a Ruby on Rails specialist. | https://rubyonrails.org
+No-code agency looking for a Bubble developer for client MVPs. | https://bubble.io
+Fashion startup needs a Pinterest Marketing expert. | https://pinterest.com
+DeepTech firm hiring a Quantum Computing researcher. | https://nature.com
+AgriTech startup raised $2M, hiring IoT sensor engineers. | https://agritech.com
+Media company looking for a Podcast Producer for tech show. | https://spotify.com
+Cybersecurity firm hiring a Penetration Tester for remote work. | https://hackerone.com
+RetailTech startup needs a Node.js developer for API gateway. | https://nodejs.org
+SpaceTech company hiring a Flight Software Engineer. | https://spacex.com
+Beauty brand looking for an Influencer Manager for Instagram. | https://instagram.com
+AutoTech startup needs a C++ developer for LIDAR processing. | https://autotech.io
+Real Estate agent needs a virtual assistant for lead gen. | https://onlinejobs.ph
+MusicTech startup hiring a Product Manager for streaming app. | https://apple.com
+ConstructionTech firm looking for a Sales Development Rep. | https://hubspot.com
+EventTech company needs a React developer for dashboard. | https://eventbrite.com
+PetTech startup raised Seed, hiring a Marketing Manager. | https://pettech.com
+AR/VR studio looking for a Three.js developer for web experience. | https://threejs.org
+Marketplace for artisans needs a Community Manager. | https://etsy.com
+E-mail marketing tool hiring a Deliverability Specialist. | https://mailchimp.com
+AI Video startup needs a PyTorch engineer for model training. | https://pytorch.org
+WealthTech firm looking for a Compliance Officer. | https://wealthtech.io
+SportsTech app needs a Swift developer for Apple Watch integration. | https://swift.org
+Zero-waste startup searching for a Supply Chain Coordinator. | https://zerowaste.org
+API-first startup hiring a Developer Advocate for documentation. | https://postman.com
+Venture Studio looking for a Resident Entrepreneur to lead MVP. | https://venturestudio.com
