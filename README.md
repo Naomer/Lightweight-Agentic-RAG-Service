@@ -166,7 +166,7 @@ Returns structured intelligence analysis based on stored signals.
 
 ## This is not a chatbot.
 
-## It is a structured intelligence engine designed to extract startup signals for:
+It is a structured intelligence engine designed to extract startup signals for:
  • Freelancers
  • Recruiters
  • Founders
@@ -176,7 +176,7 @@ Returns structured intelligence analysis based on stored signals.
 
 ## 🧱 Author
 
-## Built by Me — AI-focused mobile + systems engineer exploring Agentic architectures and applied intelligence systems.
+Built by Me — AI-focused mobile + systems engineer exploring Agentic architectures and applied intelligence systems.
 
 ---
 
