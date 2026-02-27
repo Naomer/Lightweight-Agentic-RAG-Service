@@ -164,7 +164,7 @@ Returns structured intelligence analysis based on stored signals.
 
 ## 🎯 Why This Matters
 
-## This is not a chatbot.
+This is not a chatbot.
 
 It is a structured intelligence engine designed to extract startup signals for:
  • Freelancers
