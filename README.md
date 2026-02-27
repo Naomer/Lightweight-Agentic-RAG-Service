@@ -72,7 +72,7 @@ FastAPI Response
 
 ## 1️⃣ Clone
 ```bash
-git clone https://github.com/yourusername/agentic-lead-rag.git
+git clone https://github.com/Naomer/agentic-lead-rag.git
 cd agentic-lead-rag
 ```
 
@@ -176,7 +176,7 @@ Returns structured intelligence analysis based on stored signals.
 
 ## 🧱 Author
 
-##Built by Me — AI-focused mobile + systems engineer exploring Agentic architectures and applied intelligence systems.
+## Built by Me — AI-focused mobile + systems engineer exploring Agentic architectures and applied intelligence systems.
 
 ---
 
