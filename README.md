@@ -8,8 +8,11 @@ Built with:
  • FastAPI
 
  • FAISS (vector search) 
+ 
  • Sentence Transformers 
+ 
  • Groq LLM (Llama 3.3 70B) 
+ 
  • Docker-ready architecture
 
 
