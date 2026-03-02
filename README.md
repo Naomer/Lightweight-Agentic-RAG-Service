@@ -12,10 +12,9 @@ Built with:
  • Docker-ready architecture
 
 
+### 🧠 What This Project Does
 
-## 🧠 What This Project Does
-
-## This service:
+### This service:
  1. Embeds startup-related signals into a FAISS vector store
  2. Retrieves the most relevant context using semantic similarity
  3. Sends structured context to an LLM
@@ -34,8 +33,7 @@ Example analysis output:
 ```
 
 
-
-## 🏗 Architecture
+### 🏗 Architecture
 ```bash
 User Query
     ↓
@@ -47,7 +45,9 @@ Groq LLM (Structured JSON Output)
     ↓
 FastAPI Response
 ```
-## Components:
+
+
+### Components:
  • embedding_service.py → Generates sentence embeddings
  
  • vector_store.py → FAISS index + persistence
@@ -59,9 +59,7 @@ FastAPI Response
  • main.py → FastAPI endpoints
 
 
-
-
-## ⚙️ Tech Stack
+### ⚙️ Tech Stack
  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) Python 3.10+  
  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) FastAPI  
  ![FAISS](https://img.shields.io/badge/FAISS-0D0D0D?logo=faiss&logoColor=white) FAISS (CPU)  
@@ -70,42 +68,37 @@ FastAPI Response
  ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) Docker
 
 
+###🚀 Getting Started
 
-##🚀 Getting Started
-
-## 1️⃣ Clone
+### 1️⃣ Clone
 ```bash
 git clone https://github.com/Naomer/agentic-lead-rag.git
 cd agentic-lead-rag
 ```
 
----
 
-## 2️⃣ Create Virtual Environment
+### 2️⃣ Create Virtual Environment
 ```bash
 python -m venv .venv
 source .venv/bin/activate  # Windows: .venv\Scripts\activate
 ```
 
----
 
-## 3️⃣ Install Dependencies
+### 3️⃣ Install Dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
----
 
-## 4️⃣ Configure Environment
+### 4️⃣ Configure Environment
 
 Create .env file:
 ```bash
 LLM_API_KEY=your_api_key_here [I used Groq you an whatever you want]
 ```
 
----
 
-## 5️⃣ Run the API
+### 5️⃣ Run the API
 ```bash
 uvicorn app.main:app --reload
 ```
@@ -115,12 +108,11 @@ http://127.0.0.1:8000/docs
 
 Use /analyze endpoint.
 
----
 
-## 🐳 Docker Support
+### 🐳 Docker Support
 Dockerized FastAPI agent for RAG tasks.
 
-## Run locally with Docker
+### Run locally with Docker
 
 Build image:
 ```bash
@@ -134,8 +126,7 @@ docker run -p 8000:8000 --env-file .env agentic-lead-rag
 Visit: http://localhost:8000/docs
 
 
-
-## 📦 Features
+### 📦 Features
  - [X] Structured JSON enforcement from LLM 
  - [X] Async Groq integration 
  - [X] Semantic search retrieval 
@@ -143,16 +134,15 @@ Visit: http://localhost:8000/docs
  - [X] FAISS index persistence 
  - [X] Dockerized for portability
 
----
 
-## 🔬 Example Query
+### 🔬 Example Query
 ```bash
 "Startup hiring Flutter developer remotely after seed funding"
 ```
 Returns structured intelligence analysis based on stored signals.
 
 
-## 🧭 Roadmap
+### 🧭 Roadmap
  - [X] Live Reddit & X ingestion       
  - [ ] LinkedIn signal scraping       
  - [ ] Scheduled background refresh       
@@ -162,7 +152,7 @@ Returns structured intelligence analysis based on stored signals.
  - [ ] Usage-based monetization
 
 
-## 🎯 Why This Matters
+### 🎯 Why This Matters
 
 This is not a chatbot.
 
@@ -173,8 +163,7 @@ It is a structured intelligence engine designed to extract startup signals for:
  • Investors
 
 
-
-## 🧱 Author
+### 🧱 Author
 
 Built by Naol — AI-focused mobile + systems engineer exploring Agentic architectures and applied intelligence systems.
 
