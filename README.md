@@ -50,10 +50,15 @@ FastAPI Response
 ```
 ## Components:
  • embedding_service.py → Generates sentence embeddings
+ 
  • vector_store.py → FAISS index + persistence
+ 
  • retrieval_service.py → Semantic retrieval logic
+ 
  • llm_service.py → Groq structured JSON generation
+ 
  • main.py → FastAPI endpoints
+
 
 
 
@@ -133,12 +138,17 @@ Visit: http://localhost:8000/docs
 ---
 
 ## 📦 Features
- • Structured JSON enforcement from LLM
- • Async Groq integration
- • Semantic search retrieval
- • Source URL tracking
- • FAISS index persistence
- • Dockerized for portability
+ - [X] Structured JSON enforcement from LLM
+ 
+ - [X] Async Groq integration
+ 
+ - [X] Semantic search retrieval
+ 
+ - [X] Source URL tracking
+ 
+ - [X] FAISS index persistence
+ 
+ - [X] Dockerized for portability
 
 ---
 
