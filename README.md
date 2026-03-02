@@ -151,13 +151,13 @@ Returns structured intelligence analysis based on stored signals.
 ---
 
 ## 🧭 Roadmap
- • Live Reddit & X ingestion
- • LinkedIn signal scraping
- • Scheduled background refresh
- • Frontend dashboard
- • Multi-source ingestion pipeline
- • Deployment (Render / Railway)
- • Usage-based monetization
+ - [X] Live Reddit & X ingestion
+ • [] LinkedIn signal scraping
+ • [] Scheduled background refresh
+ • [] Frontend dashboard
+ • [] Multi-source ingestion pipeline
+ • [] Deployment (Render / Railway)
+ • [] Usage-based monetization
 
 ---
 
@@ -175,7 +175,7 @@ It is a structured intelligence engine designed to extract startup signals for:
 
 ## 🧱 Author
 
-Built by Me — AI-focused mobile + systems engineer exploring Agentic architectures and applied intelligence systems.
+Built by Naol — AI-focused mobile + systems engineer exploring Agentic architectures and applied intelligence systems.
 
 
 
