@@ -152,14 +152,20 @@ Returns structured intelligence analysis based on stored signals.
 
 ## 🧭 Roadmap
  - [X] Live Reddit & X ingestion
- • [] LinkedIn signal scraping
- • [] Scheduled background refresh
- • [] Frontend dashboard
- • [] Multi-source ingestion pipeline
- • [] Deployment (Render / Railway)
- • [] Usage-based monetization
+       
+ - [ ] LinkedIn signal scraping
+       
+ - [ ] Scheduled background refresh
+       
+ - [ ] Frontend dashboard
+       
+ - [ ] Multi-source ingestion pipeline
+       
+ - [ ] Deployment (Render / Railway)
+       
+ - [ ] Usage-based monetization
 
----
+
 
 ## 🎯 Why This Matters
 
