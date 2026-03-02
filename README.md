@@ -5,6 +5,7 @@
 A lightweight, production-ready Agentic RAG (Retrieval-Augmented Generation) service that analyzes startup signals (hiring, funding, remote readiness) using semantic search + LLM reasoning.
 
 Built with:
+
  • FastAPI
 
  • FAISS (vector search) 
