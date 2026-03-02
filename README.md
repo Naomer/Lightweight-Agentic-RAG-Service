@@ -1,6 +1,5 @@
 ## Lightweight Agentic RAG Service
 
----
 
 ## 🚀 Agentic Lead Intelligence RAG
 
@@ -13,7 +12,7 @@ Built with:
  • Groq LLM (Llama 3.3 70B)
  • Docker-ready architecture
 
----
+
 
 ## 🧠 What This Project Does
 
@@ -35,7 +34,7 @@ Example analysis output:
 }
 ```
 
----
+
 
 ## 🏗 Architecture
 ```bash
@@ -56,7 +55,7 @@ FastAPI Response
  • llm_service.py → Groq structured JSON generation
  • main.py → FastAPI endpoints
 
----
+
 
 ## ⚙️ Tech Stack
  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) Python 3.10+  
@@ -172,17 +171,11 @@ It is a structured intelligence engine designed to extract startup signals for:
  • Founders
  • Investors
 
----
+
 
 ## 🧱 Author
 
 Built by Me — AI-focused mobile + systems engineer exploring Agentic architectures and applied intelligence systems.
 
----
 
-## 📄 License
-
-MIT License
-
----
 
