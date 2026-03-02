@@ -47,7 +47,7 @@ FastAPI Response
 ```
 
 
-### Components:
+### Core Components:
  • embedding_service.py → Generates sentence embeddings
  
  • vector_store.py → FAISS index + persistence
