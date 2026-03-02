@@ -1,6 +1,6 @@
 ## UPDATE
 
-## 🚀 Agentic Lead Intelligence RAG
+### 🚀 Agentic Lead Intelligence RAG
 
 A lightweight, production-ready Agentic RAG (Retrieval-Augmented Generation) service that analyzes startup signals (hiring, funding, remote readiness) using semantic search + LLM reasoning.
 
@@ -153,20 +153,13 @@ Returns structured intelligence analysis based on stored signals.
 
 
 ## 🧭 Roadmap
- - [X] Live Reddit & X ingestion
-       
- - [ ] LinkedIn signal scraping
-       
- - [ ] Scheduled background refresh
-       
- - [ ] Frontend dashboard
-       
- - [ ] Multi-source ingestion pipeline
-       
- - [ ] Deployment (Render / Railway)
- 
+ - [X] Live Reddit & X ingestion       
+ - [ ] LinkedIn signal scraping       
+ - [ ] Scheduled background refresh       
+ - [ ] Frontend dashboard       
+ - [ ] Multi-source ingestion pipeline       
+ - [ ] Deployment (Render / Railway) 
  - [ ] Usage-based monetization
-
 
 
 ## 🎯 Why This Matters
