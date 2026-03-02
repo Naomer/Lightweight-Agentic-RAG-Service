@@ -1,5 +1,6 @@
-## Lightweight Agentic RAG Service
+##UPDATE
 
+## Lightweight Agentic RAG Service
 
 ## 🚀 Agentic Lead Intelligence RAG
 
@@ -70,9 +71,9 @@ FastAPI Response
  ![Groq](https://img.shields.io/badge/Groq-FF6F61?logo=groq&logoColor=white) Groq LLM API  
  ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) Docker
 
----
 
-🚀 Getting Started
+
+##🚀 Getting Started
 
 ## 1️⃣ Clone
 ```bash
@@ -135,7 +136,6 @@ docker run -p 8000:8000 --env-file .env agentic-lead-rag
 Visit: http://localhost:8000/docs
 
 
----
 
 ## 📦 Features
  - [X] Structured JSON enforcement from LLM
@@ -158,7 +158,6 @@ Visit: http://localhost:8000/docs
 ```
 Returns structured intelligence analysis based on stored signals.
 
----
 
 ## 🧭 Roadmap
  - [X] Live Reddit & X ingestion
@@ -172,7 +171,7 @@ Returns structured intelligence analysis based on stored signals.
  - [ ] Multi-source ingestion pipeline
        
  - [ ] Deployment (Render / Railway)
-       
+ 
  - [ ] Usage-based monetization
 
 
