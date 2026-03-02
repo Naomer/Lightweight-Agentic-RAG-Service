@@ -72,7 +72,7 @@ FastAPI Response
 
 ### 1️⃣ Clone
 ```bash
-git clone https://github.com/bold-ronin/agentic-lead-rag.git
+git clone https://github.com/bold-ronin/Lightweight-Agentic-RAG-Service.git
 cd agentic-lead-rag
 ```
 
