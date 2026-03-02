@@ -101,7 +101,7 @@ pip install -r requirements.txt
 
 Create .env file:
 ```bash
-GROQ_API_KEY=your_groq_api_key_here
+LLM_API_KEY=your_api_key_here [I used Groq you an whatever you want]
 ```
 
 ---
