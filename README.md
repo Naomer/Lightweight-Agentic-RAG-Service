@@ -1,4 +1,4 @@
-##UPDATE
+## UPDATE
 
 ## Lightweight Agentic RAG Service
 
@@ -138,16 +138,11 @@ Visit: http://localhost:8000/docs
 
 
 ## 📦 Features
- - [X] Structured JSON enforcement from LLM
- 
- - [X] Async Groq integration
- 
- - [X] Semantic search retrieval
- 
- - [X] Source URL tracking
- 
- - [X] FAISS index persistence
- 
+ - [X] Structured JSON enforcement from LLM 
+ - [X] Async Groq integration 
+ - [X] Semantic search retrieval 
+ - [X] Source URL tracking 
+ - [X] FAISS index persistence 
  - [X] Dockerized for portability
 
 ---
